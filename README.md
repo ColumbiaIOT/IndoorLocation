@@ -16,5 +16,6 @@ distances of the objects are color coded.
 Code compiled By : @Marshall Van Loon, @Palash Sushil Matey, @Zoltan Onodi Szucs
 (C)Columbia University
 
-Disclaimer : This code is no longer maintained
-Contact : iotmon6@gmail.com
+-Disclaimer : This code is no longer maintained
+-Contact : iotmon6@gmail.com
+-Website : http://iotcolumbiamon6.weebly.com
